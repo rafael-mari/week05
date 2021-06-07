@@ -1,7 +1,7 @@
 #include <stdlib.h>
-#include <stdio.h> // input output data
+#include <stdio.h> //
 #include <math.h> 
-#include <string.h> // string handling operations
+#include <string.h> //
 #define MAX 1000
 
 int main(void) {
