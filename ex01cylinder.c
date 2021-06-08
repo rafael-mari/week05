@@ -1,3 +1,14 @@
+/********************************************************
+ * Ex01 -- A program used to calculate and display the area and volume of a cylinder when the user provides de measure of the radius and the height. *
+ * *
+ * Author: Rafael Marí. *
+ * *
+ * Purpose: To calculate the area and volume of a cylinder. *
+ * *
+ * Usage: *
+ * Run the program, enter the measures required and the area and volume appear. *
+ ********************************************************/
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h> 
