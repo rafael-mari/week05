@@ -1,3 +1,14 @@
+/********************************************************
+ * Ex02 -- A program used to convert the entered seconds into the hours:minutes:seconds format. *
+ * *
+ * Author: Rafael Marí. *
+ * *
+ * Purpose: To convert the seconds into hous, minutes and seconds. *
+ * *
+ * Usage: *
+ * Run the program, enter the number of seconds and the new format appears. *
+ ********************************************************/
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h> 
