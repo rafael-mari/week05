@@ -1,3 +1,14 @@
+/********************************************************
+ * Ex04 -- A program used calculate the percentage that each person deserves. *
+ * *
+ * Author: Rafael Marí. *
+ * *
+ * Purpose: To calculate the percentage of each person according to what they invested. *
+ * *
+ * Usage: *
+ * Run the program, enter the invest of each person and the percentage appear. *
+ ********************************************************/
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h> 
