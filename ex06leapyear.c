@@ -1,3 +1,14 @@
+/********************************************************
+ * Ex06 -- A program used to tell if an entered year is a leap year or not. *
+ * *
+ * Author: Rafael Marí. *
+ * *
+ * Purpose: To tell whether a year is a leap year or not using the rules of a leap year. *
+ * *
+ * Usage: *
+ * Run the program, enter the year and the result appears. *
+ ********************************************************/
+
 #include <stdlib.h>
 #include <stdio.h> //
 #include <math.h> 
